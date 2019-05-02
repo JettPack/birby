@@ -13,6 +13,8 @@ body {
     height: 8vh;
     width: 100%;
     color: #114B5F;;
+    background-color: white;
+    border-bottom: 5px groove #114B5F;
 }
 
 .bottom-bar {
@@ -26,22 +28,8 @@ body {
     border-top: 5px groove #114B5F;
 }
 
-.value {
-    width: 30%;
-    margin-left: 6vh;
-    font-size: 4vh;
-    float: left;
-}
-
-.value-other {
-    width: 30%;
-    margin-right: 1vh;
-    float: right;
-    font-size: 4vh;
-}
-
 .title {
-    margin-left: 44.5%;
+    margin-left: 30%;
     margin-top: 0%; 
     width: 50%;
     float: left;
@@ -49,7 +37,7 @@ body {
 }
 
 .title-font {
-    font-size: 6.5vh;
+    font-size: 4.5vh;
     margin-top: 5%;
     color: #114B5F;
     float: left;
@@ -150,36 +138,3 @@ body {
     width: 30%;
     margin-left: 2.5vh;
 }
-
-.birby {
-    margin-left: 35%;
-    margin-top: 40vh;
-}
-
-.type-bar {
-  color: white;
-  font-size: 2.5vh;
-  height: 5vh;
-  width: 70%;
-  margin-top: 15vh;
-  margin-left: 15vw;
-  border-color: #114B5F;
-  border-style: groove;
-  border-radius: 3px;
-  border-width: 3px;
-  float: left;
-}
-
-input[type=text] {
-  width: 95%;
-  height: 85%;
-  box-sizing: border-box;
-  border: 2px solid #114B5F;
-  border-radius: 4px;
-  font-size: 3vh;
-  font-color: #114B5F;
-  background-color: white;
-  background-position: 10px 10px; 
-  background-repeat: no-repeat;
-  margin: 1.5% 2.5%;
-} 
