@@ -1,0 +1,140 @@
+body {
+    background-color: #D5EFD5;
+    height: 100%;
+    width: 100%; 
+    left: 0px;
+    overflow: visible;
+}
+
+.top-bar {
+    top: 0px;
+    left: 0px;
+    position: fixed;
+    height: 8vh;
+    width: 100%;
+    color: #114B5F;;
+    background-color: white;
+    border-bottom: 5px groove #114B5F;
+}
+
+.bottom-bar {
+    bottom: 0px;
+    left: 0px;
+    position: fixed;
+    height: 8vh;
+    width: 100%;
+    color: ;
+    background-color: white;
+    border-top: 5px groove #114B5F;
+}
+
+.title {
+    margin-left: 30%;
+    margin-top: 0%; 
+    width: 50%;
+    float: left;
+    color: #114B5F;
+}
+
+.title-font {
+    font-size: 4.5vh;
+    margin-top: 5%;
+    color: #114B5F;
+    float: left;
+}
+
+.info-button {
+    height: 3vh;
+    font-size: 4vh;
+    float: right;
+    background-color: transparent;
+    border: none;
+    top: 20vh;
+    color: #114B5F;
+}
+
+.learn-more {
+    margin-top: 1.5vh;
+    margin-right: 1.5vh;
+    color: #114B5F;
+}
+
+.button {
+    color: #114B5F;
+}
+
+.line {
+    height: 3px;
+    width: 80%;
+    background-color: white;
+    padding: none;
+    margin-left: 10%;
+}
+
+.what {
+    height: 51vh;
+    width: 100%;
+    left: 0px;
+    margin-top: 10vh;
+    font-weight: bold;
+}
+
+.info-headers {
+    font-size: 3vh;
+    text-transform: uppercase;
+    text-align: center;
+    color: #114B5F;
+}
+
+.info-paragraphs {
+    font-size: 2vh;
+    color: #114B5F;
+    margin: 1vh 1vw;
+}
+
+.birb-img {
+    margin-left: 10%;
+    border: 6px;
+    border-style: groove;
+    border-color: #114B5F;
+}
+
+.eat {
+    height: 53vh;
+    width: 100%;
+    left: 0px;
+    font-weight: bold;
+}
+
+.why {
+     height: 30vh;
+    width: 100%;
+    left: 0px;
+    font-weight: bold;
+}
+
+.birdo {
+    font-size: 6vh;
+    border: none;
+    background-color: transparent;
+    float: left;
+    width: 30%;
+}
+
+.indata {
+    font-size: 6vh;
+    border: none;
+    background-color: transparent;
+    float: left;
+    width: 30%;
+    margin-left: 2.5vh;
+}
+
+.reporting {
+    font-size: 6vh;
+    border: none;
+    background-color: transparent;
+    float: left;
+    width: 30%;
+    margin-left: 2.5vh;
+}
